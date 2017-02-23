@@ -1,0 +1,13 @@
+h:\users\filip\documents\visual studio 2015\Projects\DajStatus\DajStatus\bin\Debug\DajStatus.exe.config
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\bin\Debug\DajStatus.exe
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\bin\Debug\DajStatus.pdb
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\obj\Debug\DajStatus.csprojResolveAssemblyReference.cache
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\obj\Debug\DajStatus.exe
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\obj\Debug\DajStatus.pdb
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\bin\Debug\Status.dll
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\bin\Debug\Facebook.dll
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\bin\Debug\Status.pdb
+H:\Users\Filip\Documents\Visual Studio 2015\Projects\DajStatus\DajStatus\bin\Debug\Facebook.xml
+H:\Users\Filip\Documents\GitHub\DajStatus\DajStatus\bin\Debug\DajStatus.exe.config
+H:\Users\Filip\Documents\GitHub\DajStatus\DajStatus\obj\Debug\DajStatus.exe
+H:\Users\Filip\Documents\GitHub\DajStatus\DajStatus\obj\Debug\DajStatus.pdb
